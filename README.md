@@ -7,7 +7,7 @@ Ich habe bereits eigene Projekte mit C# umgesetzt.
 
 ## Projekte
 
-### 1. C# - Taschenrecher
+
 
 ## Ziel
 Dieses Portfolio zeigt meine Motivation und meine praktischen Kenntnisse
