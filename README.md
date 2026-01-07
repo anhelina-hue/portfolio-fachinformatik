@@ -7,6 +7,12 @@ Ich habe bereits eigene Projekte mit C# umgesetzt.
 
 ## Projekte
 
+### Quaderberechnung 
+Das Programm berechnet anhand der drei Seitenlängen eines Quaders:
+-das Volumen
+-die Oberfläche
+-die Raumdiagonale
+
 
 
 ## Ziel
