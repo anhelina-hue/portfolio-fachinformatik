@@ -1,0 +1,11 @@
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\bin\Debug\Quaderberechnung.exe.config
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\bin\Debug\Quaderberechnung.exe
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\bin\Debug\Quaderberechnung.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.csproj.AssemblyReference.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.Form1.resources
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.Properties.Resources.resources
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.csproj.GenerateResource.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.exe
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Quaderberechnung\Quaderberechnung\obj\Debug\Quaderberechnung.exe.config
