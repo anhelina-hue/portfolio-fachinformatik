@@ -1,0 +1,11 @@
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\bin\Debug\Benzingebrauchsrechner.exe.config
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\bin\Debug\Benzingebrauchsrechner.exe
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\bin\Debug\Benzingebrauchsrechner.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.csproj.AssemblyReference.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.Form1.resources
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.Properties.Resources.resources
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.csproj.GenerateResource.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.csproj.CoreCompileInputs.cache
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.exe
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.pdb
+C:\Users\Angelina\OneDrive\Документи\Anwendungen\Benzingebrauchsrechner\Benzingebrauchsrechner\obj\Debug\Benzingebrauchsrechner.exe.config
