@@ -33,6 +33,7 @@ Das Programm wird mit einem Tastendruck beendet.
 Random random = new Random();
 int geheimzahl = random.Next(1, 11);
 ```
+- Schleifen
 - Konsolenein- und -ausgabe
 
 ## Ziel
