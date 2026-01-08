@@ -10,10 +10,6 @@ class Program
 
         int zahl = 0;
         
-
-        
-       
-
         do
         {
             Console.WriteLine("Bitte gib eine Zahl ein:");
@@ -54,4 +50,5 @@ class Program
         Console.ReadKey();
 
     }
+
 }
