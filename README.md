@@ -1,7 +1,7 @@
 # Projektportfolio 
 
 ## Über mich
-Ich interessiere mich sehr für Softwareentwicklung und bereite mich auf eine Ausbildung zur Fachinformatikerin für Anwendungsentwicklung vor.
+Ich interessiere mich sehr für Softwareentwicklung und bereite mich auf eine Ausbildung zur Fachinformatikerin vor.
 Ich habe bereits eigene Projekte mit C# umgesetzt.
 
 ## Projekte
